@@ -1,16 +1,29 @@
-## Hi there 👋
+# *우리 같이 공부하자!* (￣y▽￣)╭ Ohohoho.....
 
-<!--
-**innatfya/innatfya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://c.tenor.com/8G1Q2w3JqVYAAAAC/cat-typing.gif" width="220" alt="cat typing gif"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=520&lines=안녕하세요,+저는+인나입니다." />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮*☆（￣︶￣）↗저에 대해~~~
+* 🎓 정보공학과 재학생
+* 🧠 AI, 소프트웨어 공학, 데이터 사이언스에
+* 💖🐹 mochies, asteroids, 지프, 지성 여친이다 나!! 😍
+
+---
+
+## 🛠️<(＿　＿)>아직 배우는 중.. . . .. .
+
+```
+↠ C++ | Java | Python
+↠ HTML | CSS | JavaScript
+↠ MySQL | XAMPP
+↠ Swing | JavaFX
+```
+
+---
+## 🧁 방문해줘서 고마워요! 🥺🐾
