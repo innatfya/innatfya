@@ -4,7 +4,7 @@
   <img src="https://c.tenor.com/8G1Q2w3JqVYAAAAC/cat-typing.gif" width="220" alt="cat typing gif"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=520&lines=안녕하세요,+저는+인나입니다." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=520&lines=👋안녕하세요,+저는+인나입니다>.<!!✨" />
 </p>
 
 ---
@@ -13,7 +13,6 @@
 * 🎓 정보공학과 재학생
 * 🧠 AI, 소프트웨어 공학, 데이터 사이언스
 * 💖🐹 mochies, asteroids, 지프, 지성 여친이다 나!! 😍
-
 ---
 
 ## 🛠️<(＿　＿)>아직 배우는 중.. . . .. .
@@ -24,6 +23,6 @@
 ↠ MySQL | XAMPP
 ↠ Swing | JavaFX
 ```
-
 ---
 ## 🧁 방문해줘서 고마워요! 🥺🐾
+![jeno-jisung](https://github.com/user-attachments/assets/1c3626ee-a70e-4d73-bfa9-edb363bb9045)
