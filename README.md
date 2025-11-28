@@ -1,5 +1,7 @@
 # *우리 같이 공부하자!* (￣y▽￣)╭ Ohohoho.....
-
+<p align="center">
+  <img width="300" height="225" alt="dream" src="https://github.com/user-attachments/assets/eed816ec-bb02-4b56-ad54-66bcbb6112b8" />
+</p>
 <p align="center">
   <img src="https://c.tenor.com/8G1Q2w3JqVYAAAAC/cat-typing.gif" width="220" alt="cat typing gif"/>
 </p>
