@@ -25,4 +25,8 @@
 ```
 ---
 ## 🧁 방문해줘서 고마워요! 🥺🐾
-<img src="https://github.com/user-attachments/assets/1c3626ee-a70e-4d73-bfa9-edb363bb9045" width="200" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/599dbcde-e3bc-4182-926b-ed6c22a8065a" width="250" />
+</p>
+
+---
