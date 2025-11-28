@@ -25,4 +25,4 @@
 ```
 ---
 ## 🧁 방문해줘서 고마워요! 🥺🐾
-![jeno-jisung](https://github.com/user-attachments/assets/1c3626ee-a70e-4d73-bfa9-edb363bb9045)
+<img src="https://github.com/user-attachments/assets/1c3626ee-a70e-4d73-bfa9-edb363bb9045" width="200" />
