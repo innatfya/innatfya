@@ -10,22 +10,6 @@
 </p>
 
 ---
-
-## 🎮*☆（￣︶￣）↗저에 대해~~~
-* 🎓 정보공학과 재학생
-* 🧠 AI, 소프트웨어 공학, 데이터 사이언스
-* 💖🐹 mochies, asteroids, 지프, 나 지성 여친이다!! 😍
----
-
-## 🛠️<(＿　＿)>아직 배우는 중.. . . .. .
-
-```
-↠ C++ | Java | Python
-↠ HTML | CSS | JavaScript
-↠ MySQL | XAMPP
-↠ Swing | JavaFX
-```
----
 ## 🧁 방문해줘서 고마워요! 🥺🐾
 <p align="center">
   <img src="https://github.com/user-attachments/assets/599dbcde-e3bc-4182-926b-ed6c22a8065a" width="250" />
